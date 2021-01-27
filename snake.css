@@ -1,0 +1,14 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+}
+
+body{
+    background-color: #474747;
+}
+
+#snake{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}

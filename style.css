@@ -1,0 +1,128 @@
+html{
+    background-color: #474747;
+}
+
+body{
+    color: whitesmoke;
+    font-family: 'MS UI Gothic', 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 80%;
+    word-spacing: 80%;
+    font-size: 100%;
+}
+
+.title{
+    color:#969693;
+    font-size: 500%;
+    opacity: 0.90;
+    text-align: center;
+    letter-spacing: 80%;
+    word-spacing: 80%;
+    text-shadow: 2px 1px 2px #858582;
+    border: 2px solid #858582;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: white;
+    box-shadow: 2px 2px 2px #6e6e6d;
+    width: 400px;
+    margin-left: 37%;
+}
+
+img{
+    height: 25px;
+}
+
+.presentation{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 150%;
+    margin: 3%;
+    margin-right: 55%;
+    position: absolute;
+    top: 38%;
+    left: 0%;
+}
+
+.devjam{
+        color: black;
+        text-align: center;
+        font-size: 150%;
+        margin: 3%;
+        margin-left: 55%;
+        background-color: #fce29a;
+        border-left: 6px solid orange;
+        position: absolute;
+        top: 34%;
+        right: 0%;
+}
+
+code {
+    background-color: #bbb;
+    background-color: rgba(220,220,220,.5);
+    border-radius: 2px;
+    box-decoration-break: clone;
+    font-family: consolas,"Liberation Mono",courier,monospace;
+    padding: 0 2px;
+    word-wrap: break-word;
+}
+
+.loginon{
+    font-size: 150%;
+    margin-left: 5%;
+    margin-top: 3%;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+.connect{
+    color: black;
+    font-size: 150%;
+    text-align: center;
+    letter-spacing: 80%;
+    word-spacing: 80%;
+    text-shadow: 2px 1px 2px #858582;
+    border: 2px solid #858582;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: white;
+    box-shadow: 2px 2px 2px #6e6e6d;
+    width: 450px;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    margin-left: 37%;
+    position: absolute;
+    top: 35%;
+}
+
+.coinsc{
+    font-weight: bold;
+    color: #bad4ff;
+}
+
+.start_snake {
+    font-family: 'MS UI Gothic', 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 75%;
+    left: 46.5%;
+    background: none;
+    border: none;
+    color: yellowgreen;
+    font-size: 175%;
+    text-align: center;
+}
+
+.start_snake:hover {
+    font-family: 'MS UI Gothic', 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 60%;
+    left: 39%;
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: whitesmoke;
+    font-size: 175%;
+    text-align: center;
+    padding: 8%;
+    background-image: url(https://cdn.discordapp.com/attachments/530889965048037388/706154467405594704/latest.png);
+    background-repeat: no-repeat;
+}

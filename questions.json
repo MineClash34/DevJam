@@ -1,0 +1,56 @@
+{
+    "QuestionManche1":{
+        "Catégorie":"Welcome in 2020", "Question":"Quelle est la date de la sortie de la platefome de streaming diney+ aux Etats-Unis ?", 
+        "Réponses":["12 Décembre 2018", "7 avril 2020", "4 janvier 2020", "12 novembre 2019"], "BonneRéponse":"12 novembre 2019"
+    },
+
+    "QuestionManche3":{
+        "Catégorie":"Par d'attraction", "Question":"Combien y a t'il de parc Walt-Diney à travers le monde ?", 
+        "Réponses":["6", "8", "10", "12"], "BonneRéponse":"12"
+    },
+
+    "QuestionManche4":{
+        "Catégorie":"Vocabulaire", "Question":"Quel est le nom de la princesse Raiponce en Anglais.", 
+        "Réponses":["Raiponce", "reply", "Rapunzel", "awnser"], "BonneRéponse":"Rapunzel"
+    },
+
+    "QuestionManche5":{
+        "Catégorie":"Un intrus", "Question":"Quel personnage ne fait pas partie du dessin animé La reine des neiges ?", 
+        "Réponses":["Olaf", "Pabbie", "Rémi", "Hans"], "BonneRéponse":"Rémi"
+    },
+
+    "QuestionManche6":{
+        "Catégorie":"Rongeur", "Question":"Comment s'appelle la souris dans Dumbo ?", 
+        "Réponses":["Prissy", "Théo", "Timothé", "Skinny"], "BonneRéponse":"Timothé"
+    },
+
+    "QuestionManche7":{
+        "Catégorie":"Chateaux", "Question":"A qui appartient le château situé à Dineyland Paris ?", 
+        "Réponses":["La belle au bois dormant", "Blance neige", "Raiponse", "Cendrillon"], "BonneRéponse":"La belle au bois dormant"
+    },
+
+    "QuestionManche8":{
+        "Catégorie":"Cirque", "Question":"Quel est le rôle de Dumbo au sein du cirque ?", 
+        "Réponses":["trapéziste", "clown", "équilibriste", "dompteur de tigre"], "BonneRéponse":"clown"
+    },
+
+    "QuestionManche9":{
+        "Catégorie":"Anniversaire", "Question":"Quel est l'age de Mickey Mouse ?", 
+        "Réponses":["71 ans", "81 ans", "91 ans", "101 ans"], "BonneRéponse":"91 ans"
+    },
+
+    "QuestionManche10":{
+        "Catégorie":"A l'affiche !", "Question":"En quelle année la reine des neiges est-elle sortie sur grand écrant.", 
+        "Réponses":["2010", "2016", "2013", "2015"], "BonneRéponse":"2013"
+    },
+
+    "QuestionFinale1":{
+        "Catégorie":"Conte", "Question":"Qui est l'auteur initial du conte Blanche-Neige et les Sept Nains ?", 
+        "Réponses":["Les Fères Grimm", "Walter Elias Disney"], "BonneRéponse":"Les Fères Grimm"
+    },
+
+    "QuestionFinale2":{
+        "Catégorie":"Chanson", "Question":"Completter les paroles : \"Il en faut peu pour être heureux, vraiment très peu pour être heureux, il faut se satisfaire du nécessaire. Un peu...\"", 
+        "Réponses":["D'eau fraîche et de noix de coco", "D'eau fraîche et de verdure"], "BonneRéponse":"D'eau fraîche et de verdure"
+    }
+}
